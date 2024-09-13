@@ -1,7 +1,6 @@
 // 전치 암호 2
 
 #include <bits/stdc++.h>
-using std::cin, std::cout;
 int n;
 char rail[10][100];
 char d[100], e[100];
@@ -36,6 +35,4 @@ int main() {
     }
     
     printf("%s\n", d);
-    
-    printf("%s\n", e);
 }
