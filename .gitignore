@@ -1,0 +1,4 @@
+cmake-build-debug
+CMakeLists.txt
+.idea
+SoundProcessing/my/*
